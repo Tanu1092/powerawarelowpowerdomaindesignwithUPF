@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+🔗 **GitHub Live Repository:** 
+https://github.com/Tanu1092/powerawarelowpowerdomaindesignwithUPF
 This project demonstrates a power-aware digital system using Verilog HDL and Unified Power Format (UPF). The project focuses on low-power design concepts such as power domains, power management, and isolation.
 
 ## Objectives
